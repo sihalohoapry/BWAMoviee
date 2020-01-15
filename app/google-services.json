@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953946460580",
+    "firebase_url": "https://bwasihaloho.firebaseio.com",
+    "project_id": "bwasihaloho",
+    "storage_bucket": "bwasihaloho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953946460580:android:53ce8b6541478d931c7131",
+        "android_client_info": {
+          "package_name": "com.sihaloho.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953946460580-e4e21gn3e2rdglqav7vggqd55eufl0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sihaloho.bwamov",
+            "certificate_hash": "4f755b8268fa2bfe2faed2833978e5cb922029fe"
+          }
+        },
+        {
+          "client_id": "953946460580-t8b0on8q9oe3sorgfpnt15201bcl441c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbccXxcRjc6046XkZAakyRSAOGDmoDJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953946460580-t8b0on8q9oe3sorgfpnt15201bcl441c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
